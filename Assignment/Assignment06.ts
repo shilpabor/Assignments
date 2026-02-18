@@ -1,4 +1,4 @@
-primeNumber(23);
+primeNumber(121);
 
 function primeNumber(input:number):void
 {
@@ -6,7 +6,7 @@ function primeNumber(input:number):void
     if(input>1)
     {
         
-        for(let divisors:number=1;divisors<9;divisors++)
+        for(let divisors:number=1;divisors<=input;divisors++)
         {
             if(input%divisors===0)
           {
