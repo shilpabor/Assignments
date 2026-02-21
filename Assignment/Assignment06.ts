@@ -1,4 +1,4 @@
-primeNumber(121);
+primeNumber(2);
 
 function primeNumber(input:number):void
 {
