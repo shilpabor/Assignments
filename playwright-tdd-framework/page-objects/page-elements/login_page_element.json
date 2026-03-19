@@ -1,0 +1,13 @@
+{
+    "loginheader":"span.form-title",
+    "businessemaitext":"input[aria-label='Business email']",
+    "passwordtextfield":"input[aria-label='Password']",
+    "forgotpasswordlink":"a.forgot-password-link",
+    "loginbutton":"//span[text()=' LOG IN ']",
+    "forgotPasswordConfirmationMsg":"//span[text()='Almost done!']",
+    "loginerrormsg":"//div[contains(text(),'Invalid email or password')]",
+    "linkdeInicon":"//span[text()='LinkedIn']",
+    "googleicon":"//span[text()='Google']",
+    "signUpLink":"//span[text()=' SIGN UP ']"
+
+}
